@@ -1,0 +1,57 @@
+body {
+    width:1000px;
+    margin:100px auto;
+}
+
+h1 {
+
+    text-align:center;
+    font-family:sans-serif;
+    font-size:40px;
+}
+
+.container {
+
+    display:flex;
+    justify-content: center;
+    height:400px;
+    border:1px solid green;
+    border-radius:2%;
+    
+}
+
+#circle, #text {
+
+    flex:1;
+    height:400px;
+    text-align:center;
+}
+
+#circle-shape {
+
+    width:250px;
+    height:250px;
+    border-radius:50%;
+    background-color:yellowgreen;
+    margin:50px auto;
+    
+}
+
+.button-style {
+
+    background-color:dodgerblue;
+    color:white;
+    font-size:16px;
+    padding:2%;
+    margin-right:15px;
+}
+
+#text {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    text-align:center;
+    color:dodgerblue;
+    position:relative;
+    top:150px;
+}

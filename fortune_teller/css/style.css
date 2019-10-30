@@ -1,0 +1,34 @@
+body {
+
+    font-family: 'Open Sans', sans-serif;
+    width:700px;
+    margin:0 auto;
+}
+
+h1 {
+    color:dodgerblue;
+    text-align:center;
+    font-size:40px;
+}
+
+.container {
+
+    text-align: center;
+   
+}
+
+#click {
+
+    background-color:dodgerblue;
+    color:white;
+    border:none;
+    padding:8px;
+    font-size:20px;
+    
+}
+
+h2 {
+
+    background-color:#E1DEE9;
+}
+
